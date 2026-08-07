@@ -1,7 +1,6 @@
 
 // Calculator App
 
-
 let num1 = 20;
 let num2 = 10;
 let operator = "+"; // Change to +, -, *, /, %
